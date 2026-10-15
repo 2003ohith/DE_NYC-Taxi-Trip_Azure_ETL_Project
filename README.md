@@ -1,4 +1,4 @@
-# 🚕 NYC Yellow Taxi Trip Data Engineering Project | ☁️ Azure Data Factory | 🗄️ ADLS Gen2 | ⚡ Databricks & PySpark | 🧱 Delta Lake & Unity Catalog | 📊 Power BI
+# 🚕 NYC Yellow Taxi Trip Data Engineering ETL Project | ☁️ Azure Data Factory | 🗄️ ADLS Gen2 | ⚡ Databricks & PySpark | 🧱 Delta Lake | Unity Catalog | 📊 Power BI
 
 ## Overview
 
