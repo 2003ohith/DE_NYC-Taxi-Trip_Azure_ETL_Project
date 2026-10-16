@@ -486,3 +486,7 @@ It showcases practical implementation of:
 - Business intelligence reporting using Power BI
 
 The final outcome is a scalable and organized data pipeline that transforms NYC Yellow Taxi trip data into analytics-ready datasets and interactive visual reports.
+
+# **Medallion Architecture Diagram:**
+
+  <img src="NYC_Yellow_Taxi_Trip_Data_Engineering_medallion_Architecture.png" alt="NYC Taxi Trip Project Architecture" width="900">
