@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an end-to-end Azure Data Engineering pipeline to ingest, process, transform, and visualize NYC Yellow Taxi trip data using Azure cloud services and the Medallion Architecture.
+This project implements an end-to-end Azure Data Engineering pipeline to ingest, process, transform, and visualize 32M+ NYC Yellow Taxi trip data using Azure cloud services and the Medallion Architecture.
 
 The pipeline uses Azure Data Factory to transfer source data from GitHub to Azure Data Lake Storage Gen2 (ADLS Gen2). Azure Databricks processes the data using PySpark and Delta Lake, while Unity Catalog manages data organization and governance. The transformed Gold-layer datasets are used to build interactive Power BI dashboards for analytical reporting.
 
